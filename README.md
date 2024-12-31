@@ -1,6 +1,4 @@
-# Fastify Project
-
-A simple Fastify project with basic routes and tests.
+# Fastify project to learn and practice writing tests
 
 ## Requirements
 
@@ -11,7 +9,7 @@ A simple Fastify project with basic routes and tests.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/fastify-n-tests.git
+git clone https://github.com/drppi44/fastify_n_tests.git
 ```
 
 2. Navigate into the project directory:
